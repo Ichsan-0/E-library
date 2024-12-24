@@ -1,0 +1,5 @@
+1. buat form validation di login
+
+
+$config['log_threshold'] = 3;
+$config['log_path'] = 'application/logs/';
